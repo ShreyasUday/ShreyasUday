@@ -2,6 +2,8 @@
 
 Building backend systems and developer tools (PaaS, APIs, deployment pipelines)
 
+Interested in scalable system design, deployment workflows, and infrastructure level problem solving.
+
 ## 🚀 Featured Projects
 
 ### 🔹 DeployStation
