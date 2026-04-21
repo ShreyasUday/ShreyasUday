@@ -1,15 +1,15 @@
 # Hi, I'm Shreyas 👋
 
-Backend-focused developer building systems around deployment, infrastructure, and scalable APIs.
+Building backend systems and developer tools (PaaS, APIs, deployment pipelines)
 
 ## 🚀 Featured Projects
 
 ### 🔹 DeployStation
-Docker-based PaaS platform that enables one-click deployment of Node.js applications from GitHub repositories.  
+Docker based PaaS platform that enables one click deployment of Node.js applications from GitHub repositories.  
 Implements automated build, containerization, and full lifecycle management (deploy, pause, resume, delete).
 
 ### 🔹 ReccoFlix
-Backend-driven anime platform with PostgreSQL schema design, authentication, and external API data pipelines.
+Backend driven anime platform with PostgreSQL schema design, authentication, and external API data pipelines.
 
 ## 🧠 Tech Stack
 Node.js, Express.js, PostgreSQL, Docker, AWS EC2, Nginx, REST APIs, JWT, OAuth
