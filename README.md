@@ -1,20 +1,22 @@
-Hi 👋, I'm Shreyas Uday
+# Hi, I'm Shreyas 👋
 
-**3rd-year B.Tech CSE @ KIIT University (2027)**  
-**Backend-focused Full Stack Developer | Node.js + Docker + PostgreSQL**
+Backend-focused developer building systems around deployment, infrastructure, and scalable APIs.
 
-🔭 **Currently working on**  
-- DeployStation — Node.js PaaS platform with Docker containerization  
-- ReccoFlix — full-stack anime recommendation & streaming platform  
+## 🚀 Featured Projects
 
-🌱 **Currently learning**  
-GoLang, ReactJS & Next.js (building towards production Go + React/Next stacks)
+### 🔹 DeployStation
+Docker-based PaaS platform that enables one-click deployment of Node.js applications from GitHub repositories.  
+Implements automated build, containerization, and full lifecycle management (deploy, pause, resume, delete).
 
-💬 **Ask me about**  
-Node.js/Express backends, Docker deployments, PostgreSQL, REST APIs, secure authentication, cloud infrastructure
+### 🔹 ReccoFlix
+Backend-driven anime platform with PostgreSQL schema design, authentication, and external API data pipelines.
 
-📫 **How to reach me**  
-udayshreyas123@gmail.com
+## 🧠 Tech Stack
+Node.js, Express.js, PostgreSQL, Docker, AWS EC2, Nginx, REST APIs, JWT, OAuth
 
-📄 **Resume**  
-[View my latest resume](https://drive.google.com/file/d/1rWM9yxpAy6kmfCHtZmUiC8IWoW-jC32a/view?usp=drive_link)
+## 📌 Currently Exploring
+Redis (job queues), CI/CD (GitHub Actions), GoLang, React/Next.js
+
+## 📫 Contact
+Email: udayshreyas123@gmail.com  
+Resume: https://drive.google.com/file/d/1rWM9yxpAy6kmfCHtZmUiC8IWoW-jC32a/view
