@@ -21,5 +21,5 @@ Redis (job queues), CI/CD (GitHub Actions), GoLang, React/Next.js
 
 ## 📫 Contact
 Email: udayshreyas123@gmail.com  
-Resume: https://drive.google.com/file/d/1rWM9yxpAy6kmfCHtZmUiC8IWoW-jC32a/view
+Resume: https://drive.google.com/file/d/1rWM9yxpAy6kmfCHtZmUiC8IWoW-jC32a/view  
 Portfolio: https://shreyas-uday.vercel.app/
