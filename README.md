@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-OPEN%20SOURCE-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-OPEN%20SOURCE-0F172A?style=flat-square" height="36"/>
 
 > Everything I build is public by default: not released after the fact, developed in the open from the first commit.
 
@@ -30,7 +30,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/-TECH%20STACK-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-TECH%20STACK-0F172A?style=flat-square" height="36"/>
 
 <table>
 <tr>
@@ -83,7 +83,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/-APPLIED%20AI-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-APPLIED%20AI-0F172A?style=flat-square" height="36"/>
 
 Not a separate specialty: AI shows up in my backend work where it earns its place.
 
@@ -94,7 +94,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<img src="https://img.shields.io/badge/-PROJECTS-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-PROJECTS-0F172A?style=flat-square" height="36"/>
 
 <details>
 <summary><b>DeployStation</b>: PaaS deployment engine for Node.js apps</summary>
@@ -166,31 +166,31 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<img src="https://img.shields.io/badge/-EXPERIENCE-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-EXPERIENCE-0F172A?style=flat-square" height="36"/>
 
 > Currently interviewing for SDE and backend engineering internships. This section will list real roles as they're confirmed, not before.
 
 ---
 
-<img src="https://img.shields.io/badge/-ACHIEVEMENTS-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-ACHIEVEMENTS-0F172A?style=flat-square" height="36"/>
 
 <br/>
 
 <div align="left">
 
 <a href="https://github.com/ShreyasUday?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-0F172A?style=flat-square&logo=github&logoColor=38BDF8" height="32" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-0F172A?style=flat-square&logo=github&logoColor=38BDF8" height="36" alt="Pull Shark" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ShreyasUday?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievement-YOLO-0F172A?style=flat-square&logo=github&logoColor=67E8F9" height="32" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO-0F172A?style=flat-square&logo=github&logoColor=67E8F9" height="36" alt="YOLO" />
 </a>
 
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-0F172A?style=flat-square" height="36"/>
 
 <div align="center">
 
@@ -204,7 +204,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<img src="https://img.shields.io/badge/-CONTRIBUTION%20ACTIVITY-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-CONTRIBUTION%20ACTIVITY-0F172A?style=flat-square" height="36"/>
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<img src="https://img.shields.io/badge/-CONTRIBUTION%20SNAKE-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-CONTRIBUTION%20SNAKE-0F172A?style=flat-square" height="36"/>
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-CURRENT%20FOCUS-0F172A?style=flat-square" height="36"/>
 
 <table>
 <tr>
@@ -259,7 +259,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<img src="https://img.shields.io/badge/-CONNECT-0F172A?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/-CONNECT-0F172A?style=flat-square" height="36"/>
 
 <div align="center">
 
