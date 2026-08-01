@@ -16,7 +16,7 @@
 
 <br/>
 
-<h2 align="left"><img src="https://img.shields.io/badge/-OPEN%20SOURCE-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-OPEN%20SOURCE-0F172A?style=flat-square" /></h3>
 
 > Everything I build is public by default: not released after the fact, developed in the open from the first commit.
 
@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-TECH%20STACK-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-TECH%20STACK-0F172A?style=flat-square" /></h3>
 
 <table>
 <tr>
@@ -83,7 +83,7 @@
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-APPLIED%20AI-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-APPLIED%20AI-0F172A?style=flat-square" /></h3>
 
 Not a separate specialty: AI shows up in my backend work where it earns its place.
 
@@ -94,7 +94,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-PROJECTS-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-PROJECTS-0F172A?style=flat-square" /></h3>
 
 <details>
 <summary><b>DeployStation</b>: PaaS deployment engine for Node.js apps</summary>
@@ -166,13 +166,13 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-EXPERIENCE-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-EXPERIENCE-0F172A?style=flat-square" /></h3>
 
 > Currently interviewing for SDE and backend engineering internships. This section will list real roles as they're confirmed, not before.
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-ACHIEVEMENTS-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-ACHIEVEMENTS-0F172A?style=flat-square" /></h3>
 
 <br/>
 
@@ -190,7 +190,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-0F172A?style=flat-square" /></h3>
 
 <div align="center">
 
@@ -204,7 +204,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-CONTRIBUTION%20ACTIVITY-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-CONTRIBUTION%20ACTIVITY-0F172A?style=flat-square" /></h3>
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-CONTRIBUTION%20SNAKE-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-CONTRIBUTION%20SNAKE-0F172A?style=flat-square" /></h3>
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-CURRENT%20FOCUS-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-CURRENT%20FOCUS-0F172A?style=flat-square" /></h3>
 
 <table>
 <tr>
@@ -259,7 +259,7 @@ Not a separate specialty: AI shows up in my backend work where it earns its plac
 
 ---
 
-<h2 align="left"><img src="https://img.shields.io/badge/-CONNECT-0F172A?style=flat-square" /></h2>
+<h3 align="left"><img src="https://img.shields.io/badge/-CONNECT-0F172A?style=flat-square" /></h3>
 
 <div align="center">
 
